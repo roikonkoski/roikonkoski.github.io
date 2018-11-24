@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:2.36;stroke-miterlimit:22.9256}
+    .fil4 {fill:none}
+    .fil3 {fill:#575757}
+    .fil2 {fill:white}
+    .fil0 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="10.06" y1="250" x2="489.94" y2="250">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E32D91"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#8751AD"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#2B75C9"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="366.67" y1="393.07" x2="134.32" y2="175.97">
+   <stop offset="0" style="stop-opacity:1; stop-color:#828282"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M430.48 444.18c-14.08,17.85 -40.11,20.44 -57.56,5.98 -17.45,-14.45 -20.1,-40.79 -5.89,-58.53l6.06 -8.12c21.2,-27.21 33.85,-61.61 33.85,-99.02 0,-88.14 -70.26,-159.59 -156.94,-159.59 -86.68,0 -156.94,71.45 -156.94,159.59 0,43.07 14.36,74.59 40.56,107.3 14.22,17.74 11.57,44.09 -5.88,58.54 -17.45,14.45 -49.52,6.07 -63.73,-11.68 -33.72,-42.02 -53.95,-95.69 -53.95,-154.16 0,-134.75 107.43,-243.99 239.94,-243.99 132.51,0 239.94,109.24 239.94,243.99 0,65.63 -20.52,110.3 -59.46,159.69z"/>
+  <g id="_1986155240448">
+   <ellipse class="fil1" cx="250.5" cy="284.52" rx="158.1" ry="160.04"/>
+   <ellipse class="fil2" cx="250.5" cy="284.52" rx="142.35" ry="144.09"/>
+   <ellipse class="fil3" cx="333.71" cy="329.18" rx="15.74" ry="15.93"/>
+   <path class="fil3" d="M391.65 265.6c-9.36,-70.41 -68.96,-124.71 -141.08,-124.71 -78.62,0 -142.35,64.52 -142.35,144.1 0,34.33 11.86,65.85 31.65,90.6 5.11,-14.27 13.48,-27.58 24.94,-35.06 0,0 0.15,20.01 0.15,20.01 18.32,-11.22 33.38,-18.82 57.23,-56.48 0,0 0.61,11.08 -0.96,21.24 -1.52,9.87 -5.24,18.83 -5.24,18.83 51.13,-12.19 98.48,-68.59 100.63,-89.31 0,0 1.9,31.86 1.9,31.86 10.01,4.25 33.86,-54.55 33.86,-54.55 2.45,-2.11 30.01,21 39.27,33.47z"/>
+   <path class="fil4 str0" d="M87.25 438.25l0.46 -0.38m49.59 -41.36l0.14 -0.12"/>
+  </g>
+ </g>
+</svg>

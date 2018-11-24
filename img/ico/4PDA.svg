@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:2.36;stroke-miterlimit:22.9256}
+    .fil0 {fill:#3D69B4}
+    .fil1 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="481.19" y1="205.84" x2="18.81" y2="294.16">
+   <stop offset="0" style="stop-opacity:1; stop-color:#95C2FF"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#BAD2F5"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DFE3EB"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="250" cy="250" r="213"/>
+  <path class="fil1" d="M60.78 317.29l0 -59.03 154.33 -171.07 153.42 0.75c-33.22,-24.34 -74.2,-38.71 -118.53,-38.71 -110.88,0 -200.77,89.89 -200.77,200.77 0,23.6 4.07,46.25 11.55,67.29zm23.85 46.58c36.21,52.5 96.77,86.9 165.37,86.9 39.36,0 76.07,-11.33 107.06,-30.89l-93.69 1.56 -0.18 -57.1 -178.56 -0.47zm310.48 24.88c34.48,-36.05 55.66,-84.92 55.66,-138.75 0,-53.83 -21.18,-102.7 -55.66,-138.75l0 277.5zm-131.74 -109.9l0.17 -96.01 -87.37 96.01 87.2 0zm222 -28.85c0,-129.99 -105.38,-235.37 -235.37,-235.37 -129.99,0 -235.37,105.38 -235.37,235.37 0,129.99 105.38,235.37 235.37,235.37 129.99,0 235.37,-105.38 235.37,-235.37z"/>
+ </g>
+</svg>

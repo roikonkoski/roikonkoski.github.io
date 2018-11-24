@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* FONTS */
+
+@font-face{
+font-family: 'zagolovok';
+src: url(' ../font/zagolovok/zagolovok.eot');
+src: url('../font/zagolovok/zagolovok.eot?iefix') format('eot'),
+url(' ../font/zagolovok/zagolovok.woff') format('woff'),
+url(' ../font/zagolovok/zagolovok.ttf') format('truetype'),
+url(' ../font/zagolovok/zagolovok.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: 'zagolovok1';
+src: url(' ../font/zagolovok1/zagolovok1.eot');
+src: url('../font/zagolovok1/zagolovok1.eot?iefix') format('eot'),
+url(' ../font/zagolovok1/zagolovok1.woff') format('woff'),
+url(' ../font/zagolovok1/zagolovok1.ttf') format('truetype'),
+url(' ../font/zagolovok1/zagolovok1.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face{
+font-family: '#';
+src: url(' ../font/zagolovok/zagolovok.eot');
+src: url('../font/zagolovok/zagolovok.eot?iefix') format('eot'),
+url(' ../font/zagolovok/zagolovok.woff') format('woff'),
+url(' ../font/zagolovok/zagolovok.ttf') format('truetype'),
+url(' ../font/zagolovok/zagolovok.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}

@@ -1,0 +1,42 @@
+.man{
+	background: url(../img/vk/245_oooo.plus.png);
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.man1{
+	background: url( ../img/vk/boot.svg);
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.man1:hover{
+	background: url( ../img/vk/boot1.svg);
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.vk-1-1{
+	background: #547AA8;
+	width: 280px;
+	height: 185px;
+	margin: 5px;
+	display: inline-block;
+	border-radius: 10px;
+	border: #FFFFFF solid 4px;
+}
+.ima-vk-1-1{
+	width: 130px;
+	height: 130px;
+	display: inline-block;
+	margin-top: 10px
+}
+.text-vk-1-1{
+	background: #547AA8;
+	width: 100%;
+	font-family: fill;
+	font-size: 30px;
+	line-height: 30px;
+	color: #fff;
+	
+}

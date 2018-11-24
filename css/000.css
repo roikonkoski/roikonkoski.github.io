@@ -1,0 +1,450 @@
+@charset "utf-8";
+/* CSS Document */
+.fill-1{
+	height: 340px;
+	font-size: 25px;
+	font-family:fill;
+	line-height: 25px;
+	text-align: center;
+    text-indent: 25px;
+	background:#E8B533;
+}
+.fill-2{
+	width: 340px;
+	height: 340px;
+	display: inline-block;
+	font-size: 25px;
+	font-family:fill;
+	line-height: 25px;
+	text-align: justify;
+    text-indent: 25px;
+	background: url(../img/fill.jpg);
+	background-size: cover;
+	float: left;
+	margin-right: 10px;
+}
+.fill-3{
+	width: 900px;
+	height: 340px;
+	display: inline-block;
+	font-size: 30px;
+	font-family:fill;
+	line-height: 30px;
+	text-align: justify;
+    text-indent: 25px;
+	background:#E8B533;
+
+}
+.fill-11{
+	height: 360px;
+	font-size: 25px;
+	font-family:fill;
+	line-height: 25px;
+	text-align: center;
+    text-indent: 25px;
+	background:#E8B533;
+}
+.fill-22{
+	width: 300px;
+	height: 360px;
+	display: inline-block;
+	font-size: 25px;
+	font-family:fill;
+	line-height: 25px;
+	text-align: justify;
+    text-indent: 25px;
+	background: url(../img/fill.jpg);
+	background-size: cover;
+	float: left;
+	margin-right: 10px;
+}
+.fill-33{
+	width: 550px;
+	height: 360px;
+	display: inline-block;
+	font-size: 30px;
+	font-family:fill;
+	line-height: 30px;
+	text-align: justify;
+    text-indent: 25px;
+	background:#E8B533;
+
+}
+.fill-111{
+	height: 360px;
+	font-size: 25px;
+	font-family:fill;
+	line-height: 25px;
+    text-indent: 25px;
+	background:#E8B533;
+	text-align: center;
+}
+.fill-222{
+	width: 250px;
+	height: 300px;
+	display: inline-block;
+	font-size: 25px;
+	font-family:fill;
+	line-height: 25px;
+	text-align: center;
+    text-indent: 25px;
+	background: url(../img/fill.jpg);
+	background-size: cover;
+	background-position: center;
+	margin: 15px
+}
+.fill-333{
+	width: auto;
+	height: auto;
+	display: inline-block;
+	font-size: 20px;
+	font-family:fill;
+	line-height: 20px;
+	text-align: justify;
+    text-indent: 25px;
+	background:#E8B533;
+	margin-left: 5px;
+    margin-right: 5px;
+	padding-bottom: 20px
+}
+.box-liner-contact-on{	
+	width: 100%;
+	height: auto;
+	background: #E8B533;
+	text-align: center;
+}
+.box-liner-contact{	
+	text-align: center;
+	height: auto;
+	background: #E8B533;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.box-liner-contact-1{
+	text-align: center;
+	background: #E8B533;
+	display: inline-block
+}
+.box-contact-1{ 
+	max-width: 230px;
+	min-width: 230px;
+	height: 230px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 15px;
+	background: url(../img/bootons/vk1.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 4px;
+}
+.box-contact-1:hover{
+	background: url(../img/bootons/vk1.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-2{ 
+	max-width: 230px;
+	min-width: 230px;
+	height: 230px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 15px;
+	background: url(../img/bootons/vk2.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 4px;
+}
+.box-contact-2:hover{
+	background: url(../img/bootons/vk2.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-3{ 
+	max-width: 230px;
+	min-width: 230px;
+	height: 230px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 15px;
+	background: url(../img/bootons/FIIVK.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 4px;
+}
+.box-contact-3:hover{
+	background: url(../img/bootons/FIIVK.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-4{ 
+	max-width: 230px;
+	min-width: 230px;
+	height: 230px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 15px;
+	background: url(../img/bootons/SUO.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 4px;
+}
+.box-contact-4:hover{
+	background: url(../img/bootons/SUO.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-5{ 
+	max-width: 230px;
+	min-width: 230px;
+	height: 230px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 15px;
+	background: url(../img/bootons/roi.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 4px;
+}
+.box-contact-5:hover{
+	background: url(../img/bootons/roi.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-6{ 
+	max-width: 230px;
+	min-width: 230px;
+	height: 230px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 15px;
+	background: url(../img/bootons/Fill.svg);
+	background-size: contain;
+	background-color: #E8B533;
+    border: solid 4px;
+}
+.box-contact-6:hover{
+	background: url(../img/bootons/Fill.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-7{ 
+	max-width: 230px;
+	min-width: 230px;
+	height: 230px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 15px;
+	background: url( ../img/bootons/karjala.-1.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 4px;
+}
+.box-contact-7:hover{
+	background: url( ../img/bootons/karjala.-1.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-8{ 
+	max-width: 230px;
+	min-width: 230px;
+	height: 230px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 15px;
+	background: url(../img/bootons/wik.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 4px;
+}
+.box-contact-8:hover{
+	background: url(../img/bootons/wik.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-liner-contact-px{	
+	width: 100%;
+	height: auto;
+	background: #E8B533;
+	text-align: center;
+}
+.box-contact-11{ 
+	max-width: 140px;
+	min-width: 140px;
+	height: 140px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 10px;
+	background: url(../img/bootons/vk1.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 2px;
+}
+.box-contact-11:hover{
+	background: url(../img/bootons/vk1.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-22{ 
+	max-width: 140px;
+	min-width: 140px;
+	height: 140px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 10px;
+	background: url(../img/bootons/vk2.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 2px;
+}
+.box-contact-22:hover{
+	background: url(../img/bootons/vk2.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-33{ 
+	max-width: 140px;
+	min-width: 140px;
+	height: 140px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 10px;
+	background: url(../img/bootons/FIIVK.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 2px;
+}
+.box-contact-33:hover{
+	background: url(../img/bootons/FIIVK.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-44{ 
+	max-width: 140px;
+	min-width: 140px;
+	height: 140px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 10px;
+	background: url(../img/bootons/SUO.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 2px;
+}
+.box-contact-44:hover{
+	background: url( ../img/bootons/SUO.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-55{ 
+	max-width: 140px;
+	min-width: 140px;
+	height: 140px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 10px;
+	background: url(../img/bootons/roi.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 2px;
+}
+.box-contact-55:hover{
+	background: url(../img/bootons/roi.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-66{ 
+	max-width: 140px;
+	min-width: 140px;
+	height: 140px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 10px;
+	background: url(../img/bootons/Fill.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 2px;
+}
+.box-contact-66:hover{
+	background: url(../img/bootons/Fill.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-77{ 
+	max-width: 140px;
+	min-width: 140px;
+	height: 140px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 10px;
+	background: url( ../img/bootons/karjala.-1.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 2px;
+}
+.box-contact-77:hover{
+	background: url( ../img/bootons/karjala.-1.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-contact-88{ 
+	max-width: 140px;
+	min-width: 140px;
+	height: 140px;
+	display: inline-block;
+	margin: 5px;
+	border-radius: 10px;
+	background: url(../img/bootons/wik.svg);
+	background-size: contain;
+	background-color: #E8B533;
+	border: solid 2px;
+}
+.box-contact-88:hover{
+	background: url(../img/bootons/wik.svg);
+	background-size: contain;
+	background-color: #F15A24;
+}
+.box-liner-contact-pxx{	
+	width: 100%;
+	height: auto;
+	background: #E8B533;
+	text-align: center;
+}
+.box-liner-contact{	
+	text-align: center;
+	height: auto;
+	background: #E8B533;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.podpis-6-1{
+	font-size: 25px;
+	font-family:fill;
+	line-height: 25px;
+	text-align: justify;
+    text-indent: 25px;
+	width: 100%;
+}
+.podpis-6-2{
+	height: 60px;
+	font-size: 30px;
+	font-family:fill;
+	line-height: 55px;
+	text-align: center;
+	width: 100%;
+	background: #E8B533;
+    text-indent: 25px;
+}
+.podpis-6-3{
+	height: 50px;
+	font-size: 25px;
+	font-family:fill;
+	line-height: 45px;
+	text-align: center;
+	width: 100%;
+	background: #E8B533;
+    text-indent: 25px;
+}

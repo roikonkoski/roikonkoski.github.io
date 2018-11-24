@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:white}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="225.9" y1="22.02" x2="274.09" y2="477.98">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F0582B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#EB2327"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="250" cy="250" r="229.25"/>
+  <g id="_3131297416912">
+   <path class="fil1" d="M224.97 201.9c24.91,0 45.1,20.19 45.1,45.09 0,24.9 -20.19,45.09 -45.1,45.09 -24.9,0 -45.09,-20.19 -45.09,-45.09 0,-24.9 20.19,-45.09 45.09,-45.09zm33.97 -39.38c69.93,0 126.61,56.69 126.61,126.61 0,69.93 -56.68,126.61 -126.61,126.61 -69.92,0 -126.6,-56.68 -126.6,-126.61 0,-69.92 56.68,-126.61 126.6,-126.61z"/>
+   <g>
+    <ellipse class="fil1" cx="128.07" cy="159.52" rx="39.24" ry="41.01"/>
+    <ellipse class="fil1" cx="205.28" cy="117.04" rx="32.99" ry="34.47"/>
+    <ellipse class="fil1" cx="274.15" cy="114.51" rx="27.85" ry="29.11"/>
+    <ellipse class="fil1" cx="332.84" cy="138.73" rx="24" ry="25.08"/>
+    <ellipse class="fil1" cx="372.34" cy="174.89" rx="19.84" ry="20.74"/>
+   </g>
+  </g>
+ </g>
+</svg>

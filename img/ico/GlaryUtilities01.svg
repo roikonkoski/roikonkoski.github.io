@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#0F7699}
+    .fil1 {fill:#F2F8FB}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="250" cy="250" r="236"/>
+  <g>
+   <path class="fil1" d="M145.96 99.1c-96.94,110.17 -32.46,260.49 88.95,260.62 33.08,0.04 62.95,-11.47 86.86,-24.55 15.88,-8.68 57.84,-39.53 62.07,-49 -18.81,1.11 -29.07,0.19 -47.04,-2.43 3.5,6.03 8.83,10.57 14.28,14.63 -11.19,12.19 -82.41,31.43 -122.16,16.82 -138.93,-71.44 62.35,-217.97 87.7,-237.02l-170.66 20.93zm104.04 -76.01c125.32,0 226.91,101.59 226.91,226.91 0,125.32 -101.59,226.91 -226.91,226.91 -125.32,0 -226.91,-101.59 -226.91,-226.91 0,-125.32 101.59,-226.91 226.91,-226.91zm66.62 55.08c64.34,26.28 109.67,89.48 109.67,163.27 0,97.37 -78.93,176.3 -176.29,176.3 -97.36,0 -176.29,-78.93 -176.29,-176.3 0,-58.45 28.45,-110.26 72.25,-142.34l170.66 -20.93z"/>
+  </g>
+ </g>
+</svg>

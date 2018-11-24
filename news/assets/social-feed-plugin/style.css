@@ -1,0 +1,33 @@
+.social-feed-container {
+  z-index: 3;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.is-builder .mbr-social-feed{
+  min-height: 280px;
+}
+.mbr-social-feed {
+  text-align: center;
+  position: relative;
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.social-feed-container-loading {
+  margin: 0 auto;
+  display: none;
+}
+
+.is-builder .loading .social-feed-container-loading {
+  display: block;
+}
+
+.social-feed-element iframe {
+  width: 90%;
+  height: 500px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
